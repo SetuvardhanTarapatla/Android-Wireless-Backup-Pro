@@ -1,0 +1,8 @@
+# Ignore the actual backup data folders
+Full_Mobile_Backup/
+Wireless_Backup_Files/
+Important_Docs_Backup/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
